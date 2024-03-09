@@ -1,0 +1,16 @@
+div{
+    padding: 15px;
+    margin: 10px;
+    width: 110px;
+    display: inline-block;
+    border-radius: 20px;
+}
+#div1{
+    background-color: rgb(200, 127,255);
+}
+#div2{
+    background-color: rgb(165,42,15);
+}
+#div3{
+    background-color: blue;
+}

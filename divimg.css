@@ -1,0 +1,24 @@
+div{
+    padding: 10px;
+    margin: 50;
+    width: 110;
+    display: inline-block;
+     border-radius: 70;
+}
+#div1{
+    background-image:
+    linear-gradient(red,green,blue)
+}
+#div2{
+    background-image:
+    linear-gradient(yellow,red,aqua)
+
+}
+#div3{
+    background-image:
+    linear-gradient(green,blue,orange)
+}
+#div4{
+    background-image:
+    linear-gradient(green,gray,red)
+}
